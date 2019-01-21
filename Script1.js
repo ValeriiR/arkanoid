@@ -24,7 +24,7 @@
         var interval=  setInterval(draw, 10);
 
 
-//tyytysdsfwrfwerfger
+//tyytysdsfwrfwerfgerfgfgfgfg
 
 
         // Класс шарик
