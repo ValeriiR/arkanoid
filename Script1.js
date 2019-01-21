@@ -22,7 +22,9 @@
         document.addEventListener("keydown", keydownOn, false);
         //запуск игры
         var interval=  setInterval(draw, 10);
-            
+
+
+//tyyty
 
 
         // Класс шарик
